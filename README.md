@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <h1>Commandos git para hacer push e iniciar el repositorio</h1>
+  <h1>Comandos git para hacer push e iniciar el repositorio</h1>
   <div>
     <h1>#1: Git init</h1>
     <img src="https://imgur.com/Kbo7EUh.jpg" />
